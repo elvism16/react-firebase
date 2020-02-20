@@ -1,5 +1,5 @@
 const config = {
-  apiKey: "AIzaSyCkD7JoWJw9nAdbXbCNvMOkyo_tLZqvtoU",
+  apiKey: "",
   authDomain: "happy-meter-poc.firebaseapp.com",
   databaseURL: "https://happy-meter-poc.firebaseio.com"
 };
